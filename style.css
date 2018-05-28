@@ -1,0 +1,223 @@
+.nav-bar {
+  width : 100%;
+  height : 50px;
+  background-color: black;
+  color: white;
+  position: fixed;
+  top: 0px;
+  left : 0px;
+  text-align : center;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+li {
+  list-style-type: none;
+  margin-left: 50px;
+}
+
+.login-in {
+  margin-left: 200px;
+}
+
+
+body {
+  grid-template-columns: 250px 400px;
+  grid-template-rows: 100px 300px;
+  background-color: DodgerBlue;
+  margin: 0;
+}
+
+img.logo {
+  height: 35px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  position: fixed;
+  margin-left: 110px;
+}
+
+.item1 {
+  display: inline;
+  top: 80px;
+  position: relative;
+  left: 200px;
+}
+
+.item2 {
+  display: inline;
+  position: relative;
+  left: 400px;
+  bottom: 50px;
+}
+
+.text-center {
+  display: block;
+  width: 650px;
+  position: relative;
+  left: 550px;
+  bottom: 50px;
+  color: white;
+}
+
+img.second-logo {
+  height: 100px;
+}
+
+.call-action {
+  display: block;
+  position: relative;
+  text-align: center;
+  left: 700px;
+  bottom: 50px;
+  background-color: #ba7200;
+  border-radius: 9px;
+  border: 2px solid white;
+  height: 50px;
+  line-height: 50px;
+  width: 200px;
+}
+
+.btn {
+  font-size: 150%;
+}
+
+.white-block {
+  display: block;
+  position: relative;
+  height: 70px;
+  background-color: white;
+  bottom: 50px;
+  font-size: 200%;
+  text-align: center;
+  line-height: 70px;
+  font-family: Helvetica;
+}
+
+.container {
+  position: relative;
+  height: 500px;
+  color: white;
+
+}
+
+.first-paragraph {
+  display: block;
+  position: relative;
+  left: 200px;
+  top: 50px;
+}
+
+.second-paragraph {
+  display: block;
+  position: relative;
+  left: 200px;
+  top: 100px;
+}
+
+.third-paragraph {
+  display: block;
+  position: relative;
+  left: 800px;
+  bottom: 238px;
+}
+
+.fourth-paragraph {
+  display: block;
+  position: relative;
+  left: 800px;
+  bottom: 205px;
+}
+
+.Box-grey {
+  background-color: grey;
+  display: block;
+  position: relative;
+  text-align: center;
+  bottom: 200px;
+  height: 80px;
+  line-height: 80px;
+  font-family: Helvetica, sans-serif;
+  font-size: 150%;
+}
+
+.Image1 {
+  background-color: white;
+  display: block;
+  position: relative;
+  bottom: 200px;
+  height: 500px;
+}
+
+.Miles {
+  display: block;
+  position: relative;
+  top: 50px;
+  left: 200px;
+  height: 50px;
+}
+
+.apptruck {
+  display: block;
+  position: relative;
+  bottom: 670px;
+  left: 412px;
+  height: 80px;
+}
+
+.spectrum {
+  display: block;
+  position: relative;
+  bottom: 725px;
+  left: 550px;
+  height: 50px;
+}
+
+.knowit {
+  display: block;
+  position: relative;
+  bottom: 780px;
+  left: 760px;
+  height: 50px;
+}
+
+.hatchery {
+  display: block;
+  position: relative;
+  bottom: 840px;
+  left: 1050px;
+  height: 80px;
+}
+
+.fwd {
+  display: block;
+  position: relative;
+  bottom: 900px;
+  left: 1300px;
+  height: 40px;
+}
+
+.bookkeeper  {
+  display: block;
+  position: relative;
+  bottom: 800px;
+  left: 500px;
+  height: 40px;
+}
+
+.producthunt {
+  display: block;
+  position: relative;
+  bottom: 870px;
+  left: 850px;
+  height: 100px;
+}
